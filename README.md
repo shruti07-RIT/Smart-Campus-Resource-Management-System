@@ -96,9 +96,11 @@ After COMMIT, the booking is permanently stored.
 | screenshots | Database and transaction demonstrations |
 
 
-Team Leader              Team members
-Shruti Dabade             Anam Patvekar
-                          Shweta Jamdade
-                          Atharv Hirave
+Team Leader :- Shruti Dabade
+
+Team members:-          
+Anam Patvekar
+Shweta Jamdade
+Atharv Hirave
                           
 
